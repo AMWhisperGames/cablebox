@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/*.log
+data/*.tmp
+data/sample.mp4
+data/channels.json
+mpv/
+.pytest_cache/
